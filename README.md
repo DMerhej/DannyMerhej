@@ -1,12 +1,2 @@
-# Hi, I'm Danny 👋
-
-## 🚀 Senior Software Developer & Team Leader
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyMerhej&show_icons=true&theme=radical)
-
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=DannyMerhej&theme=radical)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyMerhej&layout=compact&theme=radical)
+## 📊 GitHub Overview  
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DannyMerhej&show_icons=true&theme=radical&count_private=true) ![Streak](https://streak-stats.demolab.com?user=DannyMerhej&theme=radical) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DannyMerhej&layout=compact&theme=radical)
